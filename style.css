@@ -10,5 +10,14 @@ header, footer{
 
 /* main content; on seasalt backgorund(wrapper???), color headings, color paragraphs
 round images???? want the texas images to sit next to eachother */
-
+.seasalt-back{
+  background-color: #FCFAF8;
+}
+h1, h2{
+  text-color: #1C0F13;
+}
 /* links have pink colors in customizing, maybe make a button????? */
+a:link{color: #A53860 ;}
+a:visited{color: #7A0045 ;}
+a:hover{color: #FF2EA5 ;}
+a:active{color: #AF4D98 ;}
