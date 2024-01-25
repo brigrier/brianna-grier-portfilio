@@ -2,8 +2,9 @@ html{
   background-color: #FCEEF2;
 }
 
-body{
+p{
   font-family: lora, 'Times New Roman', serif
+}
 }
 .text-align{
   text-align: center;
@@ -12,6 +13,7 @@ body{
 
 .brown-liner, footer{
   background-color: #231705;
+  color: white;
 }
 
 
@@ -22,6 +24,7 @@ round images???? want the texas images to sit next to eachother */
 }
 h1, h2{
   color: #1C0F13;
+  font-family: playfair, lora, serif;
 }
 /* links have pink colors in customizing, maybe make a button????? */
 a:link{color: #A53860 ;}
