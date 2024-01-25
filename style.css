@@ -1,4 +1,14 @@
 html{
   background-color: #FCEEF2;
 }
-header{}
+
+/* header: own background color, customize links */
+
+header, footer{
+  background-color: #231705;
+}
+
+/* main content; on seasalt backgorund(wrapper???), color headings, color paragraphs
+round images???? want the texas images to sit next to eachother */
+
+/* links have pink colors in customizing, maybe make a button????? */
