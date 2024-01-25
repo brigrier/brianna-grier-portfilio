@@ -2,11 +2,18 @@ html{
   background-color: #FCEEF2;
 }
 
+body{
+  font-family: lora, 'Times New Roman', serif
+}
+.text-align{
+  text-align: center;
+}
 /* header: own background color, customize links */
 
-header, footer{
+.brown-liner, footer{
   background-color: #231705;
 }
+
 
 /* main content; on seasalt backgorund(wrapper???), color headings, color paragraphs
 round images???? want the texas images to sit next to eachother */
