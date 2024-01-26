@@ -32,6 +32,9 @@ h1, h2{
   color: #1C0F13;
 }
 
+h2{
+  font-size: 150%;
+}
 .img1{
   width: 200px;
 }
