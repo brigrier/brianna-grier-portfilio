@@ -9,7 +9,10 @@ body{
 .text-align{
   text-align: center;
 }
-/* HEADER EDITS: own background color, customize links */
+.seasalt-back{
+  background-color: #FCFAF8;
+}
+/* HEADER*/
 
 .brown-liner, footer{
   background-color: #231705;
@@ -23,11 +26,8 @@ h1{
 }
 
 
-/* main content; on seasalt backgorund(wrapper???), color headings, color paragraphs
-round images???? want the texas images to sit next to eachother */
-.seasalt-back{
-  background-color: #FCFAF8;
-}
+/* main  */
+
 h1, h2{
   color: #1C0F13;
 }
@@ -50,7 +50,7 @@ h2{
 .wel{
   padding-top: 20px;
 }
-/* links have pink colors in customizing, maybe make a button????? */
+/* links */
 a:link{color: #A53860 ;}
 a:visited{color: #7A0045 ;}
 a:hover{color: #FF2EA5 ;}
