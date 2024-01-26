@@ -9,11 +9,17 @@ body{
 .text-align{
   text-align: center;
 }
-/* header: own background color, customize links */
+/* HEADER EDITS: own background color, customize links */
 
 .brown-liner, footer{
   background-color: #231705;
   color: white;
+  font-size: 80%;
+  padding: 2%;
+  margin-top: -15px;
+  }
+h1{
+  font-size: 300%;
 }
 
 
