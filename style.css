@@ -44,6 +44,9 @@ h2{
   border-radius: 50%;
   height: 200px;
 }
+.text{
+  margin: 20px;
+}
 /* links have pink colors in customizing, maybe make a button????? */
 a:link{color: #A53860 ;}
 a:visited{color: #7A0045 ;}
