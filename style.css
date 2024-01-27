@@ -49,6 +49,10 @@ h2{
 .text{
   margin: 20px;
 }
+ul, ol {
+width: 14%;
+margin: 0 auto;
+}
 .wel{
   padding-top: 20px;
 }
