@@ -49,7 +49,7 @@ h2{
 .text{
   margin: 20px;
 }
-ul .text, ol .text {
+ul.text, ol.text {
 width: 14%;
 margin: 0 auto;
 }
